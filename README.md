@@ -9,7 +9,6 @@
 Here're some of the project's best features:
 
 *   Fetch tweets based on a user-provided keyword
-*   Clean the tweet text by removing links mentions and special characters
 *   Perform sentiment analysis on the cleaned tweets using TextBlob
 *   Classify the sentiment as positive negative or neutral
 
